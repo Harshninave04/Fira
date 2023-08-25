@@ -1,6 +1,15 @@
 # Mozilla's Fira Type Family
 http://mozilla.github.io/Fira/
 
+## Description 
+# What is fira ?
+Though the Mozilla Foundation has been around for ten years now, they have only recently released their own font, Fira Sans, which is available as a free download from their site.
+
+Fira Sans is available in four weights, including an italic variant for each weight, as well as a monospaced variant in two weights (regular and bold).
+
+The typeface itself was designed by notable type aficionados Erik Spiekermann and Ralph du Carrois, and according to the style guidelines for the Firefox OS, ​“aims to cover the legibility needs for a large range of handsets varying in screen quality and rendering.”
+
+
 ## Download Fira
 <a href="https://github.com/mozilla/Fira/releases/latest">Latest Release</a><br>
 <a href="https://github.com/mozilla/Fira/releases">All Releases</a>
